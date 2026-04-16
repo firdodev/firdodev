@@ -1,50 +1,93 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Firdeus Kasaj
-=====================================================================================================================================
+<div align="center">
 
-Software and Game Developer
----------------------------
+# 🛠️ ERROR 404: SLEEP NOT FOUND 🛠️
+### Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> I'm Firdeus (aka The Architect of Chaos)
 
-* 🌍  I'm based in Tirana
-* 🖥️  See my portfolio at [My Portfolio](http://www.firdeuskasaj.com)
-* ✉️  You can contact me at [firdeuskasaj@gmail.com](mailto:firdeuskasaj@gmail.com)
-* 🚀  I'm currently working on [Unyo Engine](http://www.unyocorp.com)
-* 🤝  Eager to collaborate on groundbreaking projects
-* ⚡  Fun fact: I'm secretly Batman 🦇 (Shh... it's a secret!)<br><br>
-<a href="https://www.github.com/firdodev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/firdodev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/Firdo_o" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Firdo_o?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+[![GitHub followers](https://img.shields.io/github/followers/firdodev?logo=github&style=for-the-badge&color=8b5cf6&labelColor=1c1917)](https://github.com/firdodev)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Firdo_o?logo=twitter&style=for-the-badge&color=8b5cf6&labelColor=1c1917)](https://x.com/Firdo_o)
 
-### Skills
+**CEO of UnyoCorp** | **Yume Overlord** | **Professional Bug Manufacturer**
 
+---
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+"I don't always code, but when I do, I prefer to do it at 3 AM while drinking questionable amounts of caffeine."
+
+[Target Portfolio](http://www.firdeuskasaj.com) • [LinkedIn Intelligence](https://www.linkedin.com/in/firde-kasaj) • [The Mothership (UnyoCorp)](http://www.unyocorp.com)
+
+</div>
+
+---
+
+### 🕵️ Mission Briefing (The "Real" Me)
+
+Operating from a secret bunker in **Tirana, Albania**, I spend my days building things that people didn't know they needed until they saw them. By day, I'm the CEO of **UnyoCorp**, scaling the **Unyo Engine** to world-domination levels. By night... well, I’m secretly **Batman** 🦇. 
+
+* 🚀 **Current Objective:** Launching **Yume Mobile** before the coffee runs out.
+* 📈 **2026 KPI:** Generating enough ARR to buy a Batmobile (or at least a really nice Toyota).
+* 🎓 **The Cover Story:** Currently "studying" at Polis University to blend in with the humans.
+* 🧠 **Core Belief:** If the code works on the first try, something is definitely wrong.
+
+---
+
+### ⚔️ The Arsenal (Choose Your Fighter)
+
+| **The Heavy Artillery** | **The Magic Spells** | **The Illusionist** |
+| :--- | :--- | :--- |
+| `C++` / `C#` / `C` | `React Native` / `Expo` | `Blender` (3D Chaos) |
+| `Python` / `JS` / `TS` | `Next.js` / `Tailwind` | `Adobe Suite` (Magic) |
+| `Node.js` / `GraphQL` | `Firebase` / `AWS` | `Figma` (The Vision) |
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,js,ts,react,nextjs,tailwind,nodejs,graphql,firebase,aws,blender,ps,ai,ae,pr,figma&perline=9" />
 </p>
 
+---
 
-### Socials
+### 📊 Proof of Life (The Stats)
 
-<p align="left"> <a href="https://discord.com/users/firdo.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/firdodev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/firdo.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/firdeus-kasaj" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Firdo_o" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=firdodev&show_icons=true&count_private=true&title_color=8b5cf6&text_color=ffffff&icon_color=8b5cf6&bg_color=1c1917&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firdodev&stroke=ffffff&background=1c1917&ring=8b5cf6&fire=8b5cf6&currStreakNum=ffffff&currStreakLabel=8b5cf6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="48%" />
+</div>
 
-### Badges
+<br />
 
-<b>My GitHub Stats</b>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdodev&langs_count=10&title_color=8b5cf6&text_color=ffffff&icon_color=8b5cf6&bg_color=1c1917&hide_border=true&layout=compact" width="48%" />
+</div>
 
-<a href="http://www.github.com/firdodev"><img src="https://github-readme-stats.vercel.app/api?username=firdodev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="firdodev's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/firdodev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=firdodev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 🏆 Top Secret Artifacts (Featured Repos)
 
-<a href="https://github.com/firdodev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdodev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
+  <a href="https://github.com/firdodev/Lumen">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=firdodev&repo=Lumen&title_color=8b5cf6&text_color=ffffff&icon_color=8b5cf6&bg_color=1c1917&hide_border=true" width="45%" />
+  </a>
+  <a href="https://github.com/firdodev/Yunia">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=firdodev&repo=Yunia&title_color=8b5cf6&text_color=ffffff&icon_color=8b5cf6&bg_color=1c1917&hide_border=true" width="45%" />
+  </a>
+</div>
 
-<b>Top Repositories</b>
+---
 
-<div width="100%" align="center"><a href="https://github.com/firdodev/Lumen" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=firdodev&repo=Lumen&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/firdodev/Yunia" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=firdodev&repo=Yunia&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+### 📞 Summon Me
 
-### Support Me
+Need to collaborate on a "groundbreaking" project or just want to argue about why dark mode is superior?
 
-<ul style="list-style-type: none; margin: 0;">
+<div align="center">
+  <a href="https://discord.com/users/firdo.dev"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="http://www.instagram.com/firdo.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:firdeuskasaj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/firdodev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+<br />
 
-</ul>
+<div align="center">
+  <a href="https://www.buymeacoffee.com/firdodev">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Fuel_the_Chaos-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+</div>
+
+<br />
+<p align="center"><i>Final Warning: This profile contains high levels of concentrated productivity. Viewer discretion is advised.</i></p>
